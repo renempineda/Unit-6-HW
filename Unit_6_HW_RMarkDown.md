@@ -6,6 +6,7 @@ output:
   html_document:
     keep_md: true
 ---
+###**Link to GitHub repository: [Link](https://github.com/renempineda/Unit-6-HW)**
 
 # Homework Unit 5
 
